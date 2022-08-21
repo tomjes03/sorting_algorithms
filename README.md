@@ -1,1 +1,3 @@
-0x1B C Sorting algorithms and Big O
+sorting_algorithms
+Description
+Sorting algorithma for C
